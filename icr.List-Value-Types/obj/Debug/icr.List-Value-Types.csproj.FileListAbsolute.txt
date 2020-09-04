@@ -1,0 +1,7 @@
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\bin\Debug\icr.List-Value-Types.exe.config
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\bin\Debug\icr.List-Value-Types.exe
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\bin\Debug\icr.List-Value-Types.pdb
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\obj\Debug\icr.List-Value-Types.csprojAssemblyReference.cache
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\obj\Debug\icr.List-Value-Types.csproj.CoreCompileInputs.cache
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\obj\Debug\icr.List-Value-Types.exe
+D:\source\repos\ЯП курс 2 сем 1\icr.List-Value-Types\obj\Debug\icr.List-Value-Types.pdb

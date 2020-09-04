@@ -1,0 +1,7 @@
+D:\source\repos\ЯП курс 2 сем 1\SortString\bin\Debug\SortString.exe.config
+D:\source\repos\ЯП курс 2 сем 1\SortString\bin\Debug\SortString.exe
+D:\source\repos\ЯП курс 2 сем 1\SortString\bin\Debug\SortString.pdb
+D:\source\repos\ЯП курс 2 сем 1\SortString\obj\Debug\SortString.csprojAssemblyReference.cache
+D:\source\repos\ЯП курс 2 сем 1\SortString\obj\Debug\SortString.csproj.CoreCompileInputs.cache
+D:\source\repos\ЯП курс 2 сем 1\SortString\obj\Debug\SortString.exe
+D:\source\repos\ЯП курс 2 сем 1\SortString\obj\Debug\SortString.pdb

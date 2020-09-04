@@ -1,0 +1,9 @@
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\bin\Debug\ViewFile.exe
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\bin\Debug\ViewFile.pdb
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.csprojAssemblyReference.cache
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.Form1.resources
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.GenerateResource.cache
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.CoreCompileInputs.cache
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.exe
+D:\source\repos\ЯП курс 2 сем 1\ViewFile\ViewFile\obj\Debug\ViewFile.pdb

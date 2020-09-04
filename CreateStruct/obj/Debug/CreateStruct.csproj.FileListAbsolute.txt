@@ -1,0 +1,7 @@
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\bin\Debug\CreateStruct.exe.config
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\bin\Debug\CreateStruct.exe
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\bin\Debug\CreateStruct.pdb
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\obj\Debug\CreateStruct.csprojAssemblyReference.cache
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\obj\Debug\CreateStruct.csproj.CoreCompileInputs.cache
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\obj\Debug\CreateStruct.exe
+D:\source\repos\ЯП курс 2 сем 1\CreateStruct\obj\Debug\CreateStruct.pdb

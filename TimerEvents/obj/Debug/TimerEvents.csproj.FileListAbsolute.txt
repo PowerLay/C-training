@@ -1,0 +1,10 @@
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\bin\Debug\TimerEvents.exe.config
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\bin\Debug\TimerEvents.exe
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.exe
+D:\source\repos\ЯП курс 2 сем 1\TimerEvents\obj\Debug\TimerEvents.pdb
